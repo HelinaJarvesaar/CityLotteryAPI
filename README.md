@@ -1,1 +1,1 @@
-WoTech program JAVA final project
+# WoTech program JAVA final project "City Lotery"
